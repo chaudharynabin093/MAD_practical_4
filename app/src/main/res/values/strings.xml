@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Alarm</string>
+    <string name="img">Alarm_Image</string>
+    <string name="title">MAD_Alarm_Practical</string>
+    <string name="desc">Create Alarm Time</string>
+    <string name="desc1">By pressing buttons, Alarm can be created and cancelled.</string>
+    <string name="desc2">Check current time by looking below real digital clock.</string>
+    <string name="alarm">Create Alarm</string>
+    <string name="stop_alarm">Cancel Alarm</string>
+    <string name="alarm_desc">The alarm is set for:</string>
+</resources>
